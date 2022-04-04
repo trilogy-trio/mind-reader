@@ -1,0 +1,63 @@
+#img-h{
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+#rohith{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#btn-mf{
+    margin-left: 47%;
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15%;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: tomato;
+    color: rgba(0, 0, 0, 0.911);
+}
+
+#h1-h{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1.5cm;
+    color: black;
+    padding-top: 10px;
+}
+
+#p-h{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 0.6cm;
+    color: rgba(0, 0, 0, 0.932);
+    padding-bottom: 10px;
+}
+
+#cnt-h{
+    background-image: linear-gradient(bisque,rgba(255, 255, 0, 0.836));
+}
+
+#btn-mf2{
+    background-color: tomato;
+    border-radius: 10%;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: 600;
+    width: 200px;
+    height: 30px;
+}
+
+#btn-mf2:hover{
+    background-color: lime;
+}
+
+#btn-mf:hover{
+    background-color: lime;
+}
